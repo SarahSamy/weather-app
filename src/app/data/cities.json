@@ -1,0 +1,2264 @@
+[
+    {
+        "country": "Andorra",
+        "geonameid": 3040051,
+        "name": "les Escaldes",
+        "subcountry": "Escaldes-Engordany"
+    },
+    {
+        "country": "Andorra",
+        "geonameid": 3041563,
+        "name": "Andorra la Vella",
+        "subcountry": "Andorra la Vella"
+    },
+    {
+        "country": "United Arab Emirates",
+        "geonameid": 290594,
+        "name": "Umm al Qaywayn",
+        "subcountry": "Umm al Qaywayn"
+    },
+    {
+        "country": "United Arab Emirates",
+        "geonameid": 291074,
+        "name": "Ras al-Khaimah",
+        "subcountry": "Ra\u02bcs al Khaymah"
+    },
+    {
+        "country": "United Arab Emirates",
+        "geonameid": 291696,
+        "name": "Khawr Fakk\u0101n",
+        "subcountry": "Ash Sh\u0101riqah"
+    },
+    {
+        "country": "United Arab Emirates",
+        "geonameid": 292223,
+        "name": "Dubai",
+        "subcountry": "Dubai"
+    },
+    {
+        "country": "United Arab Emirates",
+        "geonameid": 292231,
+        "name": "Dibba Al-Fujairah",
+        "subcountry": "Al Fujayrah"
+    },
+    {
+        "country": "United Arab Emirates",
+        "geonameid": 292239,
+        "name": "Dibba Al-Hisn",
+        "subcountry": "Al Fujayrah"
+    },
+    {
+        "country": "United Arab Emirates",
+        "geonameid": 292672,
+        "name": "Sharjah",
+        "subcountry": "Ash Sh\u0101riqah"
+    },
+    {
+        "country": "United Arab Emirates",
+        "geonameid": 292688,
+        "name": "Ar Ruways",
+        "subcountry": "Abu Dhabi"
+    },
+    {
+        "country": "United Arab Emirates",
+        "geonameid": 292878,
+        "name": "Al Fujayrah",
+        "subcountry": "Al Fujayrah"
+    },
+    {
+        "country": "United Arab Emirates",
+        "geonameid": 292913,
+        "name": "Al Ain",
+        "subcountry": "Abu Dhabi"
+    },
+    {
+        "country": "United Arab Emirates",
+        "geonameid": 292932,
+        "name": "Ajman",
+        "subcountry": "Ajman"
+    },
+    {
+        "country": "United Arab Emirates",
+        "geonameid": 292953,
+        "name": "Adh Dhayd",
+        "subcountry": "Ash Sh\u0101riqah"
+    },
+    {
+        "country": "United Arab Emirates",
+        "geonameid": 292968,
+        "name": "Abu Dhabi",
+        "subcountry": "Abu Dhabi"
+    },
+    {
+        "country": "Afghanistan",
+        "geonameid": 1120985,
+        "name": "Zaranj",
+        "subcountry": "N\u012bmr\u016bz"
+    },
+    {
+        "country": "Afghanistan",
+        "geonameid": 1123004,
+        "name": "Taloqan",
+        "subcountry": "Takh\u0101r"
+    },
+    {
+        "country": "Afghanistan",
+        "geonameid": 1125155,
+        "name": "Sh\u012bn\u1e0fan\u1e0f",
+        "subcountry": "Herat"
+    },
+    {
+        "country": "Afghanistan",
+        "geonameid": 1125444,
+        "name": "Shibirgh\u0101n",
+        "subcountry": "Jowzj\u0101n"
+    },
+    {
+        "country": "Afghanistan",
+        "geonameid": 1125896,
+        "name": "Shahrak",
+        "subcountry": "Ghowr"
+    },
+    {
+        "country": "Afghanistan",
+        "geonameid": 1127110,
+        "name": "Sar-e Pul",
+        "subcountry": "Sar-e Pol"
+    },
+    {
+        "country": "Afghanistan",
+        "geonameid": 1127628,
+        "name": "Sang-e Ch\u0101rak",
+        "subcountry": "Sar-e Pol"
+    },
+    {
+        "country": "Afghanistan",
+        "geonameid": 1127768,
+        "name": "A\u012bbak",
+        "subcountry": "Samang\u0101n"
+    },
+    {
+        "country": "Afghanistan",
+        "geonameid": 1128265,
+        "name": "Rust\u0101q",
+        "subcountry": "Takh\u0101r"
+    },
+    {
+        "country": "Afghanistan",
+        "geonameid": 1129516,
+        "name": "Qarq\u012bn",
+        "subcountry": "Jowzj\u0101n"
+    },
+    {
+        "country": "Afghanistan",
+        "geonameid": 1129648,
+        "name": "Qar\u0101wul",
+        "subcountry": "Kunduz"
+    },
+    {
+        "country": "Afghanistan",
+        "geonameid": 1130490,
+        "name": "Pul-e Khumr\u012b",
+        "subcountry": "Wil\u0101yat-e Baghl\u0101n"
+    },
+    {
+        "country": "Afghanistan",
+        "geonameid": 1131316,
+        "name": "Paghm\u0101n",
+        "subcountry": "Kabul"
+    },
+    {
+        "country": "Afghanistan",
+        "geonameid": 1132495,
+        "name": "Nahr\u012bn",
+        "subcountry": "Wil\u0101yat-e Baghl\u0101n"
+    },
+    {
+        "country": "Afghanistan",
+        "geonameid": 1133453,
+        "name": "Maymana",
+        "subcountry": "Faryab"
+    },
+    {
+        "country": "Afghanistan",
+        "geonameid": 1133574,
+        "name": "Mehtar L\u0101m",
+        "subcountry": "Laghm\u0101n"
+    },
+    {
+        "country": "Afghanistan",
+        "geonameid": 1133616,
+        "name": "Maz\u0101r-e Shar\u012bf",
+        "subcountry": "Balkh"
+    },
+    {
+        "country": "Afghanistan",
+        "geonameid": 1134720,
+        "name": "Lashkar G\u0101h",
+        "subcountry": "Helmand"
+    },
+    {
+        "country": "Afghanistan",
+        "geonameid": 1135158,
+        "name": "Kushk",
+        "subcountry": "Herat"
+    },
+    {
+        "country": "Afghanistan",
+        "geonameid": 1135689,
+        "name": "Kunduz",
+        "subcountry": "Kunduz"
+    },
+    {
+        "country": "Afghanistan",
+        "geonameid": 1136469,
+        "name": "Kh\u014dst",
+        "subcountry": "Khowst"
+    },
+    {
+        "country": "Afghanistan",
+        "geonameid": 1136575,
+        "name": "Khulm",
+        "subcountry": "Balkh"
+    },
+    {
+        "country": "Afghanistan",
+        "geonameid": 1136863,
+        "name": "Kh\u0101sh",
+        "subcountry": "N\u012bmr\u016bz"
+    },
+    {
+        "country": "Afghanistan",
+        "geonameid": 1137168,
+        "name": "Khanabad",
+        "subcountry": "Kunduz"
+    },
+    {
+        "country": "Afghanistan",
+        "geonameid": 1137807,
+        "name": "Karukh",
+        "subcountry": "Herat"
+    },
+    {
+        "country": "Afghanistan",
+        "geonameid": 1138336,
+        "name": "Kandah\u0101r",
+        "subcountry": "Kandah\u0101r"
+    },
+    {
+        "country": "Afghanistan",
+        "geonameid": 1138958,
+        "name": "Kabul",
+        "subcountry": "Kabul"
+    },
+    {
+        "country": "Afghanistan",
+        "geonameid": 1139715,
+        "name": "Jal\u0101l\u0101b\u0101d",
+        "subcountry": "Nangarh\u0101r"
+    },
+    {
+        "country": "Afghanistan",
+        "geonameid": 1139807,
+        "name": "Jabal os Saraj",
+        "subcountry": "Parv\u0101n"
+    },
+    {
+        "country": "Afghanistan",
+        "geonameid": 1140026,
+        "name": "Her\u0101t",
+        "subcountry": "Herat"
+    },
+    {
+        "country": "Afghanistan",
+        "geonameid": 1141089,
+        "name": "Ghormach",
+        "subcountry": "Badghis"
+    },
+    {
+        "country": "Afghanistan",
+        "geonameid": 1141269,
+        "name": "Ghazni",
+        "subcountry": "Ghazn\u012b"
+    },
+    {
+        "country": "Afghanistan",
+        "geonameid": 1141540,
+        "name": "Gereshk",
+        "subcountry": "Helmand"
+    },
+    {
+        "country": "Afghanistan",
+        "geonameid": 1141857,
+        "name": "Gard\u0113z",
+        "subcountry": "Paktia"
+    },
+    {
+        "country": "Afghanistan",
+        "geonameid": 1142170,
+        "name": "Fayzabad",
+        "subcountry": "Badakhshan"
+    },
+    {
+        "country": "Afghanistan",
+        "geonameid": 1142264,
+        "name": "Farah",
+        "subcountry": "Farah"
+    },
+    {
+        "country": "Afghanistan",
+        "geonameid": 1142404,
+        "name": "Kafir Qala",
+        "subcountry": "Herat"
+    },
+    {
+        "country": "Afghanistan",
+        "geonameid": 1145352,
+        "name": "Charikar",
+        "subcountry": "Parv\u0101n"
+    },
+    {
+        "country": "Afghanistan",
+        "geonameid": 1147066,
+        "name": "Barak\u012b Barak",
+        "subcountry": "Lowgar"
+    },
+    {
+        "country": "Afghanistan",
+        "geonameid": 1147242,
+        "name": "B\u0101my\u0101n",
+        "subcountry": "B\u0101m\u012b\u0101n"
+    },
+    {
+        "country": "Afghanistan",
+        "geonameid": 1147290,
+        "name": "Balkh",
+        "subcountry": "Balkh"
+    },
+    {
+        "country": "Afghanistan",
+        "geonameid": 1147540,
+        "name": "Baghl\u0101n",
+        "subcountry": "Wil\u0101yat-e Baghl\u0101n"
+    },
+    {
+        "country": "Afghanistan",
+        "geonameid": 1148106,
+        "name": "\u0100rt Khw\u0101jah",
+        "subcountry": "Takh\u0101r"
+    },
+    {
+        "country": "Afghanistan",
+        "geonameid": 1148205,
+        "name": "\u0100sm\u0101r",
+        "subcountry": "Konar"
+    },
+    {
+        "country": "Afghanistan",
+        "geonameid": 1148311,
+        "name": "Asad\u0101b\u0101d",
+        "subcountry": "Konar"
+    },
+    {
+        "country": "Afghanistan",
+        "geonameid": 1148658,
+        "name": "Andkh\u014dy",
+        "subcountry": "Faryab"
+    },
+    {
+        "country": "Afghanistan",
+        "geonameid": 1429434,
+        "name": "B\u0101z\u0101rak",
+        "subcountry": "Panjshir"
+    },
+    {
+        "country": "Afghanistan",
+        "geonameid": 1469706,
+        "name": "Markaz-e Woluswal\u012b-ye \u0100ch\u012bn",
+        "subcountry": "Nangarh\u0101r"
+    },
+    {
+        "country": "Antigua and Barbuda",
+        "geonameid": 3576022,
+        "name": "Saint John\u2019s",
+        "subcountry": "Saint John"
+    },
+    {
+        "country": "Anguilla",
+        "geonameid": 3573374,
+        "name": "The Valley",
+        "subcountry": "N/A"
+    },
+    {
+        "country": "Albania",
+        "geonameid": 363243,
+        "name": "Sarand\u00eb",
+        "subcountry": "Vlor\u00eb"
+    },
+    {
+        "country": "Albania",
+        "geonameid": 782661,
+        "name": "Kuk\u00ebs",
+        "subcountry": "Kuk\u00ebs"
+    },
+    {
+        "country": "Albania",
+        "geonameid": 782756,
+        "name": "Kor\u00e7\u00eb",
+        "subcountry": "Kor\u00e7\u00eb"
+    },
+    {
+        "country": "Albania",
+        "geonameid": 783148,
+        "name": "Gjirokast\u00ebr",
+        "subcountry": "Gjirokast\u00ebr"
+    },
+    {
+        "country": "Albania",
+        "geonameid": 783263,
+        "name": "Elbasan",
+        "subcountry": "Elbasan"
+    },
+    {
+        "country": "Albania",
+        "geonameid": 783493,
+        "name": "Burrel",
+        "subcountry": "Dib\u00ebr"
+    },
+    {
+        "country": "Albania",
+        "geonameid": 3183719,
+        "name": "Vlor\u00eb",
+        "subcountry": "Vlor\u00eb"
+    },
+    {
+        "country": "Albania",
+        "geonameid": 3183875,
+        "name": "Tirana",
+        "subcountry": "Tiran\u00eb"
+    },
+    {
+        "country": "Albania",
+        "geonameid": 3184081,
+        "name": "Shkod\u00ebr",
+        "subcountry": "Shkod\u00ebr"
+    },
+    {
+        "country": "Albania",
+        "geonameid": 3184517,
+        "name": "Patos Fshat",
+        "subcountry": "Fier"
+    },
+    {
+        "country": "Albania",
+        "geonameid": 3184862,
+        "name": "Lushnj\u00eb",
+        "subcountry": "Fier"
+    },
+    {
+        "country": "Albania",
+        "geonameid": 3184935,
+        "name": "Lezh\u00eb",
+        "subcountry": "Lezh\u00eb"
+    },
+    {
+        "country": "Albania",
+        "geonameid": 3185012,
+        "name": "La\u00e7",
+        "subcountry": "Lezh\u00eb"
+    },
+    {
+        "country": "Albania",
+        "geonameid": 3185060,
+        "name": "Ku\u00e7ov\u00eb",
+        "subcountry": "Berat"
+    },
+    {
+        "country": "Albania",
+        "geonameid": 3185082,
+        "name": "Kruj\u00eb",
+        "subcountry": "Durr\u00ebs"
+    },
+    {
+        "country": "Albania",
+        "geonameid": 3185211,
+        "name": "Kavaj\u00eb",
+        "subcountry": "Tiran\u00eb"
+    },
+    {
+        "country": "Albania",
+        "geonameid": 3185670,
+        "name": "Fier-\u00c7if\u00e7i",
+        "subcountry": "Fier"
+    },
+    {
+        "country": "Albania",
+        "geonameid": 3185672,
+        "name": "Fier",
+        "subcountry": "Fier"
+    },
+    {
+        "country": "Albania",
+        "geonameid": 3185728,
+        "name": "Durr\u00ebs",
+        "subcountry": "Durr\u00ebs"
+    },
+    {
+        "country": "Albania",
+        "geonameid": 3186084,
+        "name": "Berat",
+        "subcountry": "Berat"
+    },
+    {
+        "country": "Armenia",
+        "geonameid": 174875,
+        "name": "Kapan",
+        "subcountry": "Syunik Province"
+    },
+    {
+        "country": "Armenia",
+        "geonameid": 174895,
+        "name": "Goris",
+        "subcountry": "Syunik Province"
+    },
+    {
+        "country": "Armenia",
+        "geonameid": 174972,
+        "name": "Hats\u2019avan",
+        "subcountry": "Syunik Province"
+    },
+    {
+        "country": "Armenia",
+        "geonameid": 174979,
+        "name": "Artashat",
+        "subcountry": "Ararat Province"
+    },
+    {
+        "country": "Armenia",
+        "geonameid": 174991,
+        "name": "Ararat",
+        "subcountry": "Ararat Province"
+    },
+    {
+        "country": "Armenia",
+        "geonameid": 616052,
+        "name": "Yerevan",
+        "subcountry": "Yerevan"
+    },
+    {
+        "country": "Armenia",
+        "geonameid": 616062,
+        "name": "Ejmiatsin",
+        "subcountry": "Armavir Province"
+    },
+    {
+        "country": "Armenia",
+        "geonameid": 616199,
+        "name": "Spitak",
+        "subcountry": "Lori Province"
+    },
+    {
+        "country": "Armenia",
+        "geonameid": 616250,
+        "name": "Sevan",
+        "subcountry": "Gegharkunik Province"
+    },
+    {
+        "country": "Armenia",
+        "geonameid": 616435,
+        "name": "Masis",
+        "subcountry": "Ararat Province"
+    },
+    {
+        "country": "Armenia",
+        "geonameid": 616530,
+        "name": "Vanadzor",
+        "subcountry": "Lori Province"
+    },
+    {
+        "country": "Armenia",
+        "geonameid": 616599,
+        "name": "Gavarr",
+        "subcountry": "Gegharkunik Province"
+    },
+    {
+        "country": "Armenia",
+        "geonameid": 616629,
+        "name": "Hrazdan",
+        "subcountry": "Kotayk Province"
+    },
+    {
+        "country": "Armenia",
+        "geonameid": 616631,
+        "name": "Armavir",
+        "subcountry": "Armavir Province"
+    },
+    {
+        "country": "Armenia",
+        "geonameid": 616635,
+        "name": "Gyumri",
+        "subcountry": "Shirak Province"
+    },
+    {
+        "country": "Armenia",
+        "geonameid": 616877,
+        "name": "Ashtarak",
+        "subcountry": "Aragatsotn Province"
+    },
+    {
+        "country": "Armenia",
+        "geonameid": 617026,
+        "name": "Abovyan",
+        "subcountry": "Kotayk Province"
+    },
+    {
+        "country": "Angola",
+        "geonameid": 145531,
+        "name": "Saurimo",
+        "subcountry": "Lunda Sul"
+    },
+    {
+        "country": "Angola",
+        "geonameid": 145724,
+        "name": "Lucapa",
+        "subcountry": "Lunda Norte"
+    },
+    {
+        "country": "Angola",
+        "geonameid": 876177,
+        "name": "Luau",
+        "subcountry": "Moxico"
+    },
+    {
+        "country": "Angola",
+        "geonameid": 2236568,
+        "name": "U\u00edge",
+        "subcountry": "U\u00edge"
+    },
+    {
+        "country": "Angola",
+        "geonameid": 2236967,
+        "name": "Soio",
+        "subcountry": "Zaire"
+    },
+    {
+        "country": "Angola",
+        "geonameid": 2239001,
+        "name": "Nzeto",
+        "subcountry": "Zaire"
+    },
+    {
+        "country": "Angola",
+        "geonameid": 2239076,
+        "name": "N\u2019dalatando",
+        "subcountry": "Cuanza Norte"
+    },
+    {
+        "country": "Angola",
+        "geonameid": 2239520,
+        "name": "Mbanza Congo",
+        "subcountry": "Zaire"
+    },
+    {
+        "country": "Angola",
+        "geonameid": 2239862,
+        "name": "Malanje",
+        "subcountry": "Malanje"
+    },
+    {
+        "country": "Angola",
+        "geonameid": 2240449,
+        "name": "Luanda",
+        "subcountry": "Luanda"
+    },
+    {
+        "country": "Angola",
+        "geonameid": 2242001,
+        "name": "Caxito",
+        "subcountry": "Bengo"
+    },
+    {
+        "country": "Angola",
+        "geonameid": 2243271,
+        "name": "Cabinda",
+        "subcountry": "Cabinda"
+    },
+    {
+        "country": "Angola",
+        "geonameid": 3346015,
+        "name": "Sumbe",
+        "subcountry": "Cuanza Sul"
+    },
+    {
+        "country": "Angola",
+        "geonameid": 3347019,
+        "name": "Namibe",
+        "subcountry": "Namibe"
+    },
+    {
+        "country": "Angola",
+        "geonameid": 3347353,
+        "name": "Menongue",
+        "subcountry": "Cuando Cubango"
+    },
+    {
+        "country": "Angola",
+        "geonameid": 3347719,
+        "name": "Luena",
+        "subcountry": "Moxico"
+    },
+    {
+        "country": "Angola",
+        "geonameid": 3347762,
+        "name": "Lubango",
+        "subcountry": "Hu\u00edla"
+    },
+    {
+        "country": "Angola",
+        "geonameid": 3347853,
+        "name": "Longonjo",
+        "subcountry": "Huambo"
+    },
+    {
+        "country": "Angola",
+        "geonameid": 3347939,
+        "name": "Lobito",
+        "subcountry": "Benguela"
+    },
+    {
+        "country": "Angola",
+        "geonameid": 3348078,
+        "name": "Cuito",
+        "subcountry": "Bi\u00e9"
+    },
+    {
+        "country": "Angola",
+        "geonameid": 3348313,
+        "name": "Huambo",
+        "subcountry": "Huambo"
+    },
+    {
+        "country": "Angola",
+        "geonameid": 3350246,
+        "name": "Catumbela",
+        "subcountry": "Benguela"
+    },
+    {
+        "country": "Angola",
+        "geonameid": 3350372,
+        "name": "Catabola",
+        "subcountry": "Bi\u00e9"
+    },
+    {
+        "country": "Angola",
+        "geonameid": 3351014,
+        "name": "Camacupa",
+        "subcountry": "Bi\u00e9"
+    },
+    {
+        "country": "Angola",
+        "geonameid": 3351024,
+        "name": "Caluquembe",
+        "subcountry": "Hu\u00edla"
+    },
+    {
+        "country": "Angola",
+        "geonameid": 3351500,
+        "name": "Ca\u00e1la",
+        "subcountry": "Huambo"
+    },
+    {
+        "country": "Angola",
+        "geonameid": 3351663,
+        "name": "Benguela",
+        "subcountry": "Benguela"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3427213,
+        "name": "Z\u00e1rate",
+        "subcountry": "Buenos Aires"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3427388,
+        "name": "Villa Ocampo",
+        "subcountry": "Santa Fe"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3427408,
+        "name": "Villa Lugano",
+        "subcountry": "Buenos Aires F.D."
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3427428,
+        "name": "Villaguay",
+        "subcountry": "Entre Rios"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3427431,
+        "name": "Villa Gesell",
+        "subcountry": "Buenos Aires"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3427761,
+        "name": "Tigre",
+        "subcountry": "Buenos Aires"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3427833,
+        "name": "Tandil",
+        "subcountry": "Buenos Aires"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3428068,
+        "name": "San Vicente",
+        "subcountry": "Misiones"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3428071,
+        "name": "Santo Tom\u00e9",
+        "subcountry": "Corrientes"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3428359,
+        "name": "Santa Elena",
+        "subcountry": "Entre Rios"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3428577,
+        "name": "San Pedro",
+        "subcountry": "Misiones"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3428708,
+        "name": "San Luis del Palmar",
+        "subcountry": "Corrientes"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3428759,
+        "name": "San Lorenzo",
+        "subcountry": "Corrientes"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3428975,
+        "name": "San Javier",
+        "subcountry": "Santa Fe"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3428992,
+        "name": "San Isidro",
+        "subcountry": "Buenos Aires"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3429403,
+        "name": "Saladas",
+        "subcountry": "Corrientes"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3429576,
+        "name": "Retiro",
+        "subcountry": "Buenos Aires F.D."
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3429577,
+        "name": "Resistencia",
+        "subcountry": "Chaco"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3429594,
+        "name": "Reconquista",
+        "subcountry": "Santa Fe"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3429652,
+        "name": "Quilmes",
+        "subcountry": "Buenos Aires"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3429732,
+        "name": "Puerto Rico",
+        "subcountry": "Misiones"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3429777,
+        "name": "Puerto Iguaz\u00fa",
+        "subcountry": "Misiones"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3429786,
+        "name": "Puerto Esperanza",
+        "subcountry": "Misiones"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3429790,
+        "name": "Puerto Eldorado",
+        "subcountry": "Misiones"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3429886,
+        "name": "Posadas",
+        "subcountry": "Misiones"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3429902,
+        "name": "Pontevedra",
+        "subcountry": "Buenos Aires"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3429949,
+        "name": "Piran\u00e9",
+        "subcountry": "Formosa"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3430104,
+        "name": "Paso de los Libres",
+        "subcountry": "Corrientes"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3430340,
+        "name": "Ober\u00e1",
+        "subcountry": "Misiones"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3430443,
+        "name": "Necochea",
+        "subcountry": "Buenos Aires"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3430545,
+        "name": "Mor\u00f3n",
+        "subcountry": "Buenos Aires"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3430598,
+        "name": "Monte Caseros",
+        "subcountry": "Corrientes"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3430601,
+        "name": "Montecarlo",
+        "subcountry": "Misiones"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3430708,
+        "name": "Mercedes",
+        "subcountry": "Buenos Aires"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3430709,
+        "name": "Mercedes",
+        "subcountry": "Corrientes"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3430863,
+        "name": "Mar del Plata",
+        "subcountry": "Buenos Aires"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3430988,
+        "name": "Luj\u00e1n",
+        "subcountry": "Buenos Aires"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3432043,
+        "name": "La Plata",
+        "subcountry": "Buenos Aires"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3432079,
+        "name": "La Paz",
+        "subcountry": "Entre Rios"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3433349,
+        "name": "Jard\u00edn Am\u00e9rica",
+        "subcountry": "Misiones"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3433658,
+        "name": "Gualeguaych\u00fa",
+        "subcountry": "Entre Rios"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3433663,
+        "name": "Gualeguay",
+        "subcountry": "Entre Rios"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3433715,
+        "name": "Goya",
+        "subcountry": "Corrientes"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3433753,
+        "name": "Gobernador Ingeniero Valent\u00edn Virasoro",
+        "subcountry": "Corrientes"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3433803,
+        "name": "General Jos\u00e9 de San Mart\u00edn",
+        "subcountry": "Chaco"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3433836,
+        "name": "Garup\u00e1",
+        "subcountry": "Misiones"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3433899,
+        "name": "Formosa",
+        "subcountry": "Formosa"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3433901,
+        "name": "Fontana",
+        "subcountry": "Chaco"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3433956,
+        "name": "Federal",
+        "subcountry": "Entre Rios"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3434095,
+        "name": "Esquina",
+        "subcountry": "Corrientes"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3434291,
+        "name": "El Soberbio",
+        "subcountry": "Misiones"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3435038,
+        "name": "Dolores",
+        "subcountry": "Buenos Aires"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3435103,
+        "name": "Curuz\u00fa Cuati\u00e1",
+        "subcountry": "Corrientes"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3435217,
+        "name": "Corrientes",
+        "subcountry": "Corrientes"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3435261,
+        "name": "Concordia",
+        "subcountry": "Entre Rios"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3435264,
+        "name": "Concepci\u00f3n del Uruguay",
+        "subcountry": "Entre Rios"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3435356,
+        "name": "Colegiales",
+        "subcountry": "Buenos Aires F.D."
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3435486,
+        "name": "Chajar\u00ed",
+        "subcountry": "Entre Rios"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3435810,
+        "name": "Campana",
+        "subcountry": "Buenos Aires"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3435910,
+        "name": "Buenos Aires",
+        "subcountry": "Buenos Aires F.D."
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3436124,
+        "name": "Barranqueras",
+        "subcountry": "Chaco"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3436199,
+        "name": "Azul",
+        "subcountry": "Buenos Aires"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3436230,
+        "name": "Avellaneda",
+        "subcountry": "Santa Fe"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3436287,
+        "name": "Arist\u00f3bulo del Valle",
+        "subcountry": "Misiones"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3832132,
+        "name": "Zapala",
+        "subcountry": "Neuquen"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3832260,
+        "name": "Yerba Buena",
+        "subcountry": "Tucum\u00e1n"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3832647,
+        "name": "Villa Regina",
+        "subcountry": "Rio Negro"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3832653,
+        "name": "Villa Paula de Sarmiento",
+        "subcountry": "San Juan"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3832662,
+        "name": "Villa Nueva",
+        "subcountry": "Cordoba"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3832694,
+        "name": "Villa Mar\u00eda",
+        "subcountry": "Cordoba"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3832756,
+        "name": "Villa Dolores",
+        "subcountry": "Cordoba"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3832778,
+        "name": "Villa Constituci\u00f3n",
+        "subcountry": "Santa Fe"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3832791,
+        "name": "Villa Carlos Paz",
+        "subcountry": "Cordoba"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3832811,
+        "name": "Villa \u00c1ngela",
+        "subcountry": "Chaco"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3832815,
+        "name": "Villa Allende",
+        "subcountry": "Cordoba"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3832899,
+        "name": "Viedma",
+        "subcountry": "Rio Negro"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3832934,
+        "name": "Victoria",
+        "subcountry": "Entre Rios"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3833027,
+        "name": "Vera",
+        "subcountry": "Santa Fe"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3833062,
+        "name": "Venado Tuerto",
+        "subcountry": "Santa Fe"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3833112,
+        "name": "Veinticinco de Mayo",
+        "subcountry": "Buenos Aires"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3833367,
+        "name": "Ushuaia",
+        "subcountry": "Tierra del Fuego"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3833412,
+        "name": "Unquillo",
+        "subcountry": "Cordoba"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3833794,
+        "name": "Tres Isletas",
+        "subcountry": "Chaco"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3833859,
+        "name": "Tres Arroyos",
+        "subcountry": "Buenos Aires"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3833883,
+        "name": "Trelew",
+        "subcountry": "Chubut"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3834502,
+        "name": "Termas de R\u00edo Hondo",
+        "subcountry": "Santiago del Estero"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3834601,
+        "name": "Tartagal",
+        "subcountry": "Salta"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3834813,
+        "name": "Taf\u00ed Viejo",
+        "subcountry": "Tucum\u00e1n"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3834971,
+        "name": "Sunchales",
+        "subcountry": "Santa Fe"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3835793,
+        "name": "Santo Tom\u00e9",
+        "subcountry": "Santa Fe"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3835869,
+        "name": "Santiago del Estero",
+        "subcountry": "Santiago del Estero"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3835994,
+        "name": "Santa Rosa",
+        "subcountry": "La Pampa"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3836194,
+        "name": "Santa Luc\u00eda",
+        "subcountry": "San Juan"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3836277,
+        "name": "Santa Fe de la Vera Cruz",
+        "subcountry": "Santa Fe"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3836564,
+        "name": "San Salvador de Jujuy",
+        "subcountry": "Jujuy"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3836620,
+        "name": "San Ram\u00f3n de la Nueva Or\u00e1n",
+        "subcountry": "Salta"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3836669,
+        "name": "San Rafael",
+        "subcountry": "Mendoza"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3836772,
+        "name": "San Pedro",
+        "subcountry": "Jujuy"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3836846,
+        "name": "San Nicol\u00e1s de los Arroyos",
+        "subcountry": "Buenos Aires"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3836873,
+        "name": "San Miguel de Tucum\u00e1n",
+        "subcountry": "Tucum\u00e1n"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3836951,
+        "name": "San Mart\u00edn de los Andes",
+        "subcountry": "Neuquen"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3836992,
+        "name": "San Mart\u00edn",
+        "subcountry": "Mendoza"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3837056,
+        "name": "San Luis",
+        "subcountry": "San Luis"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3837124,
+        "name": "San Justo",
+        "subcountry": "Santa Fe"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3837213,
+        "name": "San Juan",
+        "subcountry": "San Juan"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3837240,
+        "name": "San Jos\u00e9 de J\u00e1chal",
+        "subcountry": "San Juan"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3837441,
+        "name": "San Jorge",
+        "subcountry": "Santa Fe"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3837675,
+        "name": "San Francisco",
+        "subcountry": "Cordoba"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3837702,
+        "name": "San Fernando del Valle de Catamarca",
+        "subcountry": "Catamarca"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3837980,
+        "name": "San Antonio Oeste",
+        "subcountry": "Rio Negro"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3838233,
+        "name": "Salta",
+        "subcountry": "Salta"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3838506,
+        "name": "Rufino",
+        "subcountry": "Santa Fe"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3838583,
+        "name": "Rosario",
+        "subcountry": "Santa Fe"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3838793,
+        "name": "R\u00edo Tercero",
+        "subcountry": "Cordoba"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3838797,
+        "name": "R\u00edo Segundo",
+        "subcountry": "Cordoba"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3838859,
+        "name": "R\u00edo Gallegos",
+        "subcountry": "Santa Cruz"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3838874,
+        "name": "R\u00edo Cuarto",
+        "subcountry": "Cordoba"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3838902,
+        "name": "R\u00edo Ceballos",
+        "subcountry": "Cordoba"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3839307,
+        "name": "Rawson",
+        "subcountry": "Chubut"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3839479,
+        "name": "Rafaela",
+        "subcountry": "Santa Fe"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3839490,
+        "name": "Quitilipi",
+        "subcountry": "Chaco"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3839982,
+        "name": "Punta Alta",
+        "subcountry": "Buenos Aires"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3840092,
+        "name": "Puerto Madryn",
+        "subcountry": "Chubut"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3840300,
+        "name": "Presidencia Roque S\u00e1enz Pe\u00f1a",
+        "subcountry": "Chaco"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3840860,
+        "name": "Pocito",
+        "subcountry": "San Juan"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3840885,
+        "name": "Plottier",
+        "subcountry": "Neuquen"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3841490,
+        "name": "Pergamino",
+        "subcountry": "Buenos Aires"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3841500,
+        "name": "P\u00e9rez",
+        "subcountry": "Santa Fe"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3841956,
+        "name": "Paran\u00e1",
+        "subcountry": "Entre Rios"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3842190,
+        "name": "Palpal\u00e1",
+        "subcountry": "Jujuy"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3842670,
+        "name": "Olavarr\u00eda",
+        "subcountry": "Buenos Aires"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3842881,
+        "name": "Nueve de Julio",
+        "subcountry": "Buenos Aires"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3843123,
+        "name": "Neuqu\u00e9n",
+        "subcountry": "Neuquen"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3843619,
+        "name": "Morteros",
+        "subcountry": "Cordoba"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3843803,
+        "name": "Monteros",
+        "subcountry": "Tucum\u00e1n"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3844421,
+        "name": "Mendoza",
+        "subcountry": "Mendoza"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3844899,
+        "name": "Marcos Ju\u00e1rez",
+        "subcountry": "Cordoba"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3845330,
+        "name": "Machagai",
+        "subcountry": "Chaco"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3846864,
+        "name": "Lincoln",
+        "subcountry": "Buenos Aires"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3846915,
+        "name": "Libertador General San Mart\u00edn",
+        "subcountry": "Jujuy"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3848687,
+        "name": "Las Bre\u00f1as",
+        "subcountry": "Chaco"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3848950,
+        "name": "La Rioja",
+        "subcountry": "La Rioja"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3851331,
+        "name": "La Falda",
+        "subcountry": "Cordoba"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3852374,
+        "name": "La Calera",
+        "subcountry": "Cordoba"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3852468,
+        "name": "Laboulaye",
+        "subcountry": "Cordoba"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3853354,
+        "name": "Jun\u00edn",
+        "subcountry": "Buenos Aires"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3853491,
+        "name": "Joaqu\u00edn V. Gonz\u00e1lez",
+        "subcountry": "Salta"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3853510,
+        "name": "Jes\u00fas Mar\u00eda",
+        "subcountry": "Cordoba"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3854895,
+        "name": "Granadero Baigorria",
+        "subcountry": "Santa Fe"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3854985,
+        "name": "Gobernador G\u00e1lvez",
+        "subcountry": "Santa Fe"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3855065,
+        "name": "General Roca",
+        "subcountry": "Rio Negro"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3855074,
+        "name": "General Pinedo",
+        "subcountry": "Chaco"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3855075,
+        "name": "General Pico",
+        "subcountry": "La Pampa"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3855116,
+        "name": "General Enrique Mosconi",
+        "subcountry": "Salta"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3855244,
+        "name": "G\u00e1lvez",
+        "subcountry": "Santa Fe"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3855554,
+        "name": "Firmat",
+        "subcountry": "Santa Fe"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3855666,
+        "name": "Famaill\u00e1",
+        "subcountry": "Tucum\u00e1n"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3855974,
+        "name": "Esquel",
+        "subcountry": "Chubut"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3856022,
+        "name": "Esperanza",
+        "subcountry": "Santa Fe"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3856231,
+        "name": "Embarcaci\u00f3n",
+        "subcountry": "Salta"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3856235,
+        "name": "Embalse",
+        "subcountry": "Cordoba"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3858765,
+        "name": "El Bols\u00f3n",
+        "subcountry": "Rio Negro"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3859384,
+        "name": "Diamante",
+        "subcountry": "Entre Rios"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3859512,
+        "name": "De\u00e1n Funes",
+        "subcountry": "Cordoba"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3859552,
+        "name": "Cutral-C\u00f3",
+        "subcountry": "Neuquen"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3859828,
+        "name": "Cruz del Eje",
+        "subcountry": "Cordoba"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3859904,
+        "name": "Crespo",
+        "subcountry": "Entre Rios"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3859965,
+        "name": "Cosqu\u00edn",
+        "subcountry": "Cordoba"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3860164,
+        "name": "Coronel Su\u00e1rez",
+        "subcountry": "Buenos Aires"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3860217,
+        "name": "Coronda",
+        "subcountry": "Santa Fe"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3860259,
+        "name": "C\u00f3rdoba",
+        "subcountry": "Cordoba"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3860443,
+        "name": "Comodoro Rivadavia",
+        "subcountry": "Chubut"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3861056,
+        "name": "Cipolletti",
+        "subcountry": "Rio Negro"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3861061,
+        "name": "Cinco Saltos",
+        "subcountry": "Rio Negro"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3861344,
+        "name": "Chivilcoy",
+        "subcountry": "Buenos Aires"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3861416,
+        "name": "Chimbas",
+        "subcountry": "San Juan"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3861445,
+        "name": "Chilecito",
+        "subcountry": "La Rioja"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3861678,
+        "name": "Charata",
+        "subcountry": "Chaco"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3861953,
+        "name": "Chacabuco",
+        "subcountry": "Buenos Aires"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3862144,
+        "name": "Centenario",
+        "subcountry": "Neuquen"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3862240,
+        "name": "Caucete",
+        "subcountry": "San Juan"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3862254,
+        "name": "Catriel",
+        "subcountry": "Rio Negro"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3862320,
+        "name": "Castelli",
+        "subcountry": "Chaco"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3862351,
+        "name": "Casilda",
+        "subcountry": "Santa Fe"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3862655,
+        "name": "Carcara\u00f1\u00e1",
+        "subcountry": "Santa Fe"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3862738,
+        "name": "Capit\u00e1n Berm\u00fadez",
+        "subcountry": "Santa Fe"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3862981,
+        "name": "Ca\u00f1ada de G\u00f3mez",
+        "subcountry": "Santa Fe"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3863379,
+        "name": "Caleta Olivia",
+        "subcountry": "Santa Cruz"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3864331,
+        "name": "Bell Ville",
+        "subcountry": "Cordoba"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3864375,
+        "name": "Bella Vista",
+        "subcountry": "Tucum\u00e1n"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3865086,
+        "name": "Bah\u00eda Blanca",
+        "subcountry": "Buenos Aires"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3865385,
+        "name": "Arroyo Seco",
+        "subcountry": "Santa Fe"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3865424,
+        "name": "Arroyito",
+        "subcountry": "Cordoba"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3865840,
+        "name": "A\u00f1atuya",
+        "subcountry": "Santiago del Estero"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3866163,
+        "name": "Alta Gracia",
+        "subcountry": "Cordoba"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3866242,
+        "name": "Allen",
+        "subcountry": "Rio Negro"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3866367,
+        "name": "Alderetes",
+        "subcountry": "Tucum\u00e1n"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3866425,
+        "name": "Albard\u00f3n",
+        "subcountry": "San Juan"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 3866496,
+        "name": "Aguilares",
+        "subcountry": "Tucum\u00e1n"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 6693230,
+        "name": "Villa Santa Rita",
+        "subcountry": "Buenos Aires F.D."
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 7116866,
+        "name": "Villa Mercedes",
+        "subcountry": "San Luis"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 7647007,
+        "name": "San Carlos de Bariloche",
+        "subcountry": "Rio Negro"
+    },
+    {
+        "country": "Argentina",
+        "geonameid": 10172104,
+        "name": "Adrogu\u00e9",
+        "subcountry": "Buenos Aires"
+    },
+    {
+        "country": "American Samoa",
+        "geonameid": 5881576,
+        "name": "Pago Pago",
+        "subcountry": "Eastern District"
+    },
+    {
+        "country": "Austria",
+        "geonameid": 2760910,
+        "name": "Wolfsberg",
+        "subcountry": "Carinthia"
+    },
+    {
+        "country": "Austria",
+        "geonameid": 2761353,
+        "name": "Wiener Neustadt",
+        "subcountry": "Lower Austria"
+    },
+    {
+        "country": "Austria",
+        "geonameid": 2761369,
+        "name": "Vienna",
+        "subcountry": "Vienna"
+    },
+    {
+        "country": "Austria",
+        "geonameid": 2761524,
+        "name": "Wels",
+        "subcountry": "Upper Austria"
+    },
+    {
+        "country": "Austria",
+        "geonameid": 2761669,
+        "name": "Weinzierl bei Krems",
+        "subcountry": "Lower Austria"
+    },
+    {
+        "country": "Austria",
+        "geonameid": 2762372,
+        "name": "Villach",
+        "subcountry": "Carinthia"
+    },
+    {
+        "country": "Austria",
+        "geonameid": 2763423,
+        "name": "Traun",
+        "subcountry": "Upper Austria"
+    },
+    {
+        "country": "Austria",
+        "geonameid": 2763460,
+        "name": "Traiskirchen",
+        "subcountry": "Lower Austria"
+    },
+    {
+        "country": "Austria",
+        "geonameid": 2763795,
+        "name": "Ternitz",
+        "subcountry": "Lower Austria"
+    },
+    {
+        "country": "Austria",
+        "geonameid": 2764359,
+        "name": "Steyr",
+        "subcountry": "Upper Austria"
+    },
+    {
+        "country": "Austria",
+        "geonameid": 2764786,
+        "name": "Spittal an der Drau",
+        "subcountry": "Carinthia"
+    },
+    {
+        "country": "Austria",
+        "geonameid": 2765388,
+        "name": "Schwechat",
+        "subcountry": "Lower Austria"
+    },
+    {
+        "country": "Austria",
+        "geonameid": 2766429,
+        "name": "Sankt P\u00f6lten",
+        "subcountry": "Lower Austria"
+    },
+    {
+        "country": "Austria",
+        "geonameid": 2766824,
+        "name": "Salzburg",
+        "subcountry": "Salzburg"
+    },
+    {
+        "country": "Austria",
+        "geonameid": 2766922,
+        "name": "Saalfelden am Steinernen Meer",
+        "subcountry": "Salzburg"
+    },
+    {
+        "country": "Austria",
+        "geonameid": 2771335,
+        "name": "M\u00f6dling",
+        "subcountry": "Lower Austria"
+    },
+    {
+        "country": "Austria",
+        "geonameid": 2772173,
+        "name": "Lustenau",
+        "subcountry": "Vorarlberg"
+    },
+    {
+        "country": "Austria",
+        "geonameid": 2772400,
+        "name": "Linz",
+        "subcountry": "Upper Austria"
+    },
+    {
+        "country": "Austria",
+        "geonameid": 2772635,
+        "name": "Leonding",
+        "subcountry": "Upper Austria"
+    },
+    {
+        "country": "Austria",
+        "geonameid": 2772649,
+        "name": "Leoben",
+        "subcountry": "Styria"
+    },
+    {
+        "country": "Austria",
+        "geonameid": 2773300,
+        "name": "Kufstein",
+        "subcountry": "Tyrol"
+    },
+    {
+        "country": "Austria",
+        "geonameid": 2773549,
+        "name": "Krems an der Donau",
+        "subcountry": "Lower Austria"
+    },
+    {
+        "country": "Austria",
+        "geonameid": 2773913,
+        "name": "Klosterneuburg",
+        "subcountry": "Lower Austria"
+    },
+    {
+        "country": "Austria",
+        "geonameid": 2774326,
+        "name": "Klagenfurt am W\u00f6rthersee",
+        "subcountry": "Carinthia"
+    },
+    {
+        "country": "Austria",
+        "geonameid": 2774773,
+        "name": "Kapfenberg",
+        "subcountry": "Styria"
+    },
+    {
+        "country": "Austria",
+        "geonameid": 2775220,
+        "name": "Innsbruck",
+        "subcountry": "Tyrol"
+    },
+    {
+        "country": "Austria",
+        "geonameid": 2776951,
+        "name": "Hallein",
+        "subcountry": "Salzburg"
+    },
+    {
+        "country": "Austria",
+        "geonameid": 2778067,
+        "name": "Graz",
+        "subcountry": "Styria"
+    },
+    {
+        "country": "Austria",
+        "geonameid": 2779674,
+        "name": "Feldkirch",
+        "subcountry": "Vorarlberg"
+    },
+    {
+        "country": "Austria",
+        "geonameid": 2780741,
+        "name": "Dornbirn",
+        "subcountry": "Vorarlberg"
+    },
+    {
+        "country": "Austria",
+        "geonameid": 2781503,
+        "name": "Bregenz",
+        "subcountry": "Vorarlberg"
+    },
+    {
+        "country": "Austria",
+        "geonameid": 2781520,
+        "name": "Braunau am Inn",
+        "subcountry": "Upper Austria"
+    },
+    {
+        "country": "Austria",
+        "geonameid": 2782067,
+        "name": "Baden",
+        "subcountry": "Lower Austria"
+    },
+    {
+        "country": "Austria",
+        "geonameid": 2782555,
+        "name": "Amstetten",
+        "subcountry": "Lower Austria"
+    },
+    {
+        "country": "Austria",
+        "geonameid": 3323063,
+        "name": "Ansfelden",
+        "subcountry": "Salzburg"
+    },
+    {
+        "country": "Australia",
+        "geonameid": 2058430,
+        "name": "Whyalla",
+        "subcountry": "South Australia"
+    },
+    {
+        "country": "Australia",
+        "geonameid": 2062338,
+        "name": "Rockingham",
+        "subcountry": "Western Australia"
+    },
+    {
+        "country": "Australia",
+        "geonameid": 2062944,
+        "name": "Prospect",
+        "subcountry": "South Australia"
+    },
+    {
+        "country": "Australia",
+        "geonameid": 2063042,
+        "name": "Port Hedland",
+        "subcountry": "Western Australia"
+    },
+    {
+        "country": "Australia",
+        "geonameid": 2063523,
+        "name": "Perth",
+        "subcountry": "Western Australia"
+    },
+    {
+        "country": "Australia",
+        "geonameid": 2065176,
+        "name": "Murray Bridge",
+        "subcountry": "South Australia"
+    },
+    {
+        "country": "Australia",
+        "geonameid": 2065594,
+        "name": "Mount Isa",
+        "subcountry": "Queensland"
+    },
+    {
+        "country": "Australia",
+        "geonameid": 2065740,
+        "name": "Morphett Vale",
+        "subcountry": "South Australia"
+    },
+    {
+        "country": "Australia",
+        "geonameid": 2067119,
+        "name": "Mandurah",
+        "subcountry": "Western Australia"
+    }
+]

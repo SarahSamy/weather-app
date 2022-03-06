@@ -1,0 +1,66 @@
+
+.page-cont { 
+    background-image:  linear-gradient(to bottom, rgba(255,255,0,0.5), rgba(0, 217, 255, 0.5)),
+    url("../assets/shining-sun-and-clouds-by-Vexels.svg") !important; 
+    background-size: cover;
+    height: 100%;
+    overflow: hidden;
+    background-position: center;
+    background-repeat: no-repeat;
+   
+  }
+
+.mat-toolbar{
+    background: rgb(109, 186, 230);
+    color: rgba(245, 237, 237, 0.973);
+}
+
+.flex-row {
+    display: flex;
+    flex-direction: row;
+    
+    > div {
+      flex: 50%;
+      border-radius: 10px;
+    }
+> .outlook {
+    padding: 10px;
+    color: black;
+    background: rgba(0,0,0,0.1);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+  }
+
+  > .temp {
+    background: lightblue;
+    padding: 10px;
+    color: black;
+    margin-right: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  >  .image {
+    height: 80px;
+  }
+}
+mat-card {
+    width: 350px;
+  }
+  .card-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin:10px;
+   
+  }
+//   .page-cont{
+//     background-image: url("../assets/shining-sun-and-clouds-by-Vexels.svg");
+//     background-size: cover;
+//     background-position: center;
+//     background-repeat: no-repeat;
+//   }
